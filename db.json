@@ -1,6 +1,11 @@
 {
  "sElement":[
     {
+     "id":"00",   
+     "Name":"-Select-",
+     "StudentId":"",
+     "IsBorrowed":"false"
+    },{
      "id":"01",   
      "Name":"Balon de futbol",
      "StudentId":"",
