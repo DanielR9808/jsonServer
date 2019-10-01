@@ -149,5 +149,12 @@
       "img":"sws",
       "Genre":"Post-Hardcore/Pop Rock"
     }
-  ]    
+  ],
+ "missingObject":[
+  {
+   "name": "Sombrilla", 
+   "location": "Atelier 205", 
+   "by": "Laura"
+  }
+ ]
 }
