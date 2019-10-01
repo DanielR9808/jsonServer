@@ -152,9 +152,39 @@
   ],
  "missingObject":[
   {
-   "name": "Sombrilla", 
-   "location": "Atelier 205", 
-   "by": "Laura"
-  }
+      "name": "Billetera",
+      "location": "Canchas Edificio G",
+      "foundedby": "Juan Felipe Rivadeneira Delgado",
+      "image": "https://ibb.co/n0sv96d" ,
+      "estado":"Activo"   
+    },
+    {
+        "name": "Llaves Carro",
+        "location": "Edificio B",
+        "foundedby": "Bryan Felipe Alvarez",
+        "image": "https://ibb.co/GtGDTfp" ,
+        "estado":"Activo"   
+      },
+      {
+        "name": "USB",
+        "location": "Atelier 205",
+        "foundedby": "Jordan Stiven Lopez Sanchez",
+        "image": "https://ibb.co/3WyYTQM" ,
+        "estado":"Activo"   
+      },
+      {
+        "name": "Carné",
+        "location": "Mesón",
+        "foundedby": "Daniel Alejandro Rojas",
+        "image": "https://ibb.co/cYW5fg9" ,
+        "estado":"Activo"   
+      },
+      {
+        "name": "Pulsera PANDORA",
+        "location": "Biblioteca",
+        "foundedby": "Eduard Camilo Rincón Aranguren",
+        "image": "https://ibb.co/rHK6YRm" ,
+        "estado":"Activo"   
+      }    
  ]
 }
