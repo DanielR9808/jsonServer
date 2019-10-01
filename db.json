@@ -4,76 +4,76 @@
      "id":"00",   
      "Name":"-Select-",
      "StudentId":"",
-     "ChargeId:"",
+     "ChargeId":"",
      "IsBorrowed":"false"
     },{
      "id":"01",   
      "Name":"Balon de futbol",
      "StudentId":"",
-     "ChargeId:"",
+     "ChargeId":"",
      "IsBorrowed":"false"
     },
     {
      "id":"02",  
      "Name":"Balon de volley",
      "StudentId":"",
-     "ChargeId:"",
+     "ChargeId":"",
      "IsBorrowed":"false"
     },
     {
      "id":"03",   
      "Name":"Kit Tenis",
      "StudentId":"",
-     "ChargeId:"",
+     "ChargeId":"",
      "IsBorrowed":"false"
     },
     {
      "id":"04",   
      "Name":"Balon de Basket",
      "StudentId":"",
-     "ChargeId:"",
+     "ChargeId":"",
      "IsBorrowed":"false"
     },
     {
      "id":"05",   
      "Name":"Pelota de tenis",
      "StudentId":"",
-     "ChargeId:"",
+     "ChargeId":"",
      "IsBorrowed":"false"
     },
     {
      "id":"06",   
      "Name":"Kit Tenis de Mesa",
      "StudentId":"",
-     "ChargeId:"",
+     "ChargeId":"",
      "IsBorrowed":"false"
     },
     {
      "id":"07",   
      "Name":"Remos",
      "StudentId":"",
-     "ChargeId:"",
+     "ChargeId":"",
      "IsBorrowed":"false"
     },
     {
      "id":"08",  
      "Name":"Kit ajedrez",
      "StudentId":"",
-     "ChargeId:"",
+     "ChargeId":"",
      "IsBorrowed":"false"
     },
     {
      "id":"09",  
      "Name":"Disco",
      "StudentId":"",
-     "ChargeId:"",
+     "ChargeId":"",
      "IsBorrowed":"false"
     },
     {
      "id":"10",   
      "Name":"Balon de futbol sala",
      "StudentId":"",
-     "ChargeId:"",
+     "ChargeId":"",
      "IsBorrowed":"false"
     }
 ], 
